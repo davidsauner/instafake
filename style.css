@@ -77,8 +77,6 @@ margin-left: 12px;
         font-weight: 400;
         font-size: 12px;
 }
-
-
 .feed{
     font-family: roboto;
     margin: 20px auto;
@@ -212,7 +210,6 @@ width: 293px;
 .container{
     width: 624px;
 }
-
 @media (max-width: 914px){
     .side-bar{
         display: none;
