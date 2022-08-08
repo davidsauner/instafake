@@ -4,6 +4,7 @@ body{
     font-family: roboto;
     margin-top: 60px;
 }
+
 .topo{
     position: fixed;
     display: flex;
@@ -15,6 +16,8 @@ body{
     z-index: 10;
     top:0;
     left: 0%;
+    height: 54px;
+    border: 1px solid #DBDBDB;
 }
 .topo input{
     background: #FAFAFA;
@@ -228,6 +231,9 @@ width: 293px;
     }
     .bar-stories{
         width: 100%;
+    }
+    .bar-stories ion-icon{
+        display: none;
     }
     .container{
         width: 90%;
